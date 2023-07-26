@@ -1,0 +1,11 @@
+C:\Users\ktdi84\source\repos\memo.cs\bin\Debug\memo.cs.exe.config
+C:\Users\ktdi84\source\repos\memo.cs\bin\Debug\memo.cs.exe
+C:\Users\ktdi84\source\repos\memo.cs\bin\Debug\memo.cs.pdb
+C:\Users\ktdi84\source\repos\memo.cs\obj\Debug\memo.cs.csproj.AssemblyReference.cache
+C:\Users\ktdi84\source\repos\memo.cs\obj\Debug\memo.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\ktdi84\source\repos\memo.cs\obj\Debug\memo.cs.Form1.resources
+C:\Users\ktdi84\source\repos\memo.cs\obj\Debug\memo.cs.Properties.Resources.resources
+C:\Users\ktdi84\source\repos\memo.cs\obj\Debug\memo.cs.csproj.GenerateResource.cache
+C:\Users\ktdi84\source\repos\memo.cs\obj\Debug\memo.cs.csproj.CoreCompileInputs.cache
+C:\Users\ktdi84\source\repos\memo.cs\obj\Debug\memo.cs.exe
+C:\Users\ktdi84\source\repos\memo.cs\obj\Debug\memo.cs.pdb
